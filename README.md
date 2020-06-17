@@ -1,12 +1,12 @@
 # Avid Video Editorial In Azure Cloud
  
-This repository covers projects related to installing Avid Editorial software in Azure subscription. 
+This repository covers projects related to installing Avid Editorial software in an Azure subscription. 
  
 # Project  / Folder Details 
  
 ### EitC - BYOL 
 - [EitC](https://github.com/Azure/VideoEditorialInTheCloud/tree/master/EITC-BYOL) 
-This Project covers installation of Media composer, Nexis and  Jump/Bastioned host in Azure subscription using terraform templates. 
+This Project covers installation of Media Composer, Nexis and Jump/Bastion host in Azure subscription using terraform templates. 
 Information about the ecosystem, installation guide, current version supported items and future release road map is available in the project information
  
 
